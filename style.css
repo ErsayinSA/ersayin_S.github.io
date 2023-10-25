@@ -1,0 +1,10 @@
+body {
+    background-color: #f0f0f0; /* Цвет фона */
+    background-image: url('https://w.forfun.com/fetch/a2/a257234089769f47c47ba07d509a707a.jpeg'); /* Фоновое изображение */
+    background-size: cover; /* Растягивает изображение на весь экран */
+    color: white; /* Цвет текста */
+}
+
+h1, p {
+    text-align: center; /* Выравнивание текста по центру */
+}
